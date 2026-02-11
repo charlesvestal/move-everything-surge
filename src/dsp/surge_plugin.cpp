@@ -591,7 +591,7 @@ static void v2_set_param(void *instance, const char *key, const char *val) {
     /* Module-level params */
     if (strcmp(key, "preset") == 0) {
         int idx = atoi(val);
-        if (idx >= 0 && idx < inst->preset_count) {
+        if (idx >= 0 && idx < inst->preset_count && idx != inst->current_preset) {
             load_preset_by_display_index(inst, idx);
         }
         return;
