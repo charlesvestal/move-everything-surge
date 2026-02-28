@@ -1,0 +1,176 @@
+{
+  "title": "Surge XT",
+  "children": [
+    {
+      "title": "Overview",
+      "lines": [
+        "Surge XT hybrid",
+        "synthesizer.",
+        "",
+        "Wavetable, FM,",
+        "subtractive, and",
+        "physical modeling",
+        "synthesis modes.",
+        "",
+        "3 oscillators, 2",
+        "filters, 3 LFOs,",
+        "and full ADSR",
+        "envelopes.",
+        "",
+        "Factory preset",
+        "library included."
+      ]
+    },
+    {
+      "title": "Controls",
+      "children": [
+        {
+          "title": "Knob Mapping",
+          "lines": [
+            "Knob 1: Cutoff",
+            " Filter 1 frequency",
+            "",
+            "Knob 2: Resonance",
+            " Filter 1 resonance",
+            "",
+            "Knob 3: Filter Env",
+            " Envelope mod depth",
+            "",
+            "Knob 4: Attack",
+            "Knob 5: Decay",
+            "Knob 6: Sustain",
+            "Knob 7: Release",
+            " Amp envelope ADSR",
+            "",
+            "Knob 8: Volume"
+          ]
+        },
+        {
+          "title": "Oscillators",
+          "lines": [
+            "3 independent",
+            "oscillators, each",
+            "with selectable type.",
+            "",
+            "Types include:",
+            " Classic (analog)",
+            " Wavetable",
+            " FM (2/3 operator)",
+            " String (Karplus)",
+            " Twist (MI Plaits)",
+            " Alias (lo-fi)",
+            " S&H Noise",
+            "",
+            "Each has pitch,",
+            "type-specific params,",
+            "and 6 shape controls."
+          ]
+        },
+        {
+          "title": "Mixer",
+          "lines": [
+            "Combines oscillator",
+            "outputs before",
+            "filters.",
+            "",
+            "Osc 1/2/3 levels,",
+            "noise level, and",
+            "ring mod.",
+            "",
+            "7 mixer parameters",
+            "total."
+          ]
+        },
+        {
+          "title": "Filters",
+          "lines": [
+            "2 filters with many",
+            "types available.",
+            "",
+            "Each filter has:",
+            " Cutoff frequency",
+            " Resonance",
+            " Envelope modulation",
+            " Keytrack amount",
+            " Subtype selection",
+            "",
+            "Filter routing is",
+            "configurable in the",
+            "scene settings."
+          ]
+        },
+        {
+          "title": "Envelopes",
+          "lines": [
+            "Amp Envelope:",
+            " Attack, Hold, Decay",
+            " Sustain, Release",
+            " Shape, Mode",
+            "",
+            "Filter Envelope:",
+            " Same parameters,",
+            " modulates filter",
+            " cutoff frequency.",
+            "",
+            "Both support",
+            "digital and analog",
+            "envelope modes."
+          ]
+        },
+        {
+          "title": "LFOs",
+          "lines": [
+            "3 LFOs available.",
+            "",
+            "Each LFO has:",
+            " Rate (free or sync)",
+            " Shape, Phase",
+            " Amplitude, Deform",
+            " Delay, Fade-in",
+            "",
+            "12 parameters per",
+            "LFO for deep",
+            "modulation control."
+          ]
+        },
+        {
+          "title": "Scene Settings",
+          "lines": [
+            "Global voice and",
+            "routing controls.",
+            "",
+            "Polyphony, portamento",
+            "pitch bend range,",
+            "octave offset, and",
+            "filter routing.",
+            "",
+            "19 scene parameters",
+            "available."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "MIDI",
+      "lines": [
+        "Full polyphony with",
+        "voice management.",
+        "",
+        "Pitch Bend:",
+        " 14-bit resolution",
+        "",
+        "Aftertouch:",
+        " Channel and poly",
+        "",
+        "Program Change:",
+        " Selects presets",
+        "",
+        "Full CC support",
+        "for all parameters.",
+        "",
+        "Octave transpose:",
+        " -3 to +3 octaves"
+      ]
+    }
+  ]
+}
